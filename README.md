@@ -1,2 +1,2 @@
 # python-for-coding-test
-python coding test 준비
+- [lxzun/Coding-study](https://github.com/lxzun/Coding-study)
